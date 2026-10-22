@@ -1,0 +1,369 @@
+<?php
+// index.php — головна сторінка лендингу «Розетка-таймер тижнева 16А / 3680W»
+// PHP-код не потрібен, але файл має розширення .php за вимогою.
+// Уся логіка обробки заявок — в order.php.
+?>
+<!DOCTYPE html>
+<html lang="uk" data-gi-color-scheme="light">
+<head>
+    <meta charset="utf-8">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <title>Розетка-таймер тижнева 16А / 3680W (EU) — купити зі знижкою</title>
+    <meta content="Цифрова програмована розетка-таймер 16А / 3680W (EU) з дисплеєм. До 10 програм, резервне живлення до 100 годин. Акційна ціна 518 грн." name="description">
+    <meta content="розетка-таймер, тижневий таймер, розетка з таймером, 16А 3680W, eu розетка, автоматизація, купити" name="keywords">
+    <meta content="width=480" name="viewport">
+
+    <meta content="Розетка-таймер тижнева 16А / 3680W" property="og:title">
+    <meta content="АВТОМАТИЗАЦІЯ БЕЗ ЗУСИЛЬ. До 10 програм, резервне живлення до 100 годин. Акційна ціна 518 грн." property="og:description">
+    <meta content="website" property="og:type">
+    <meta content="" property="og:url">
+    <meta content="images/photo-main.webp" property="og:image">
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1692989205140481');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1692989205140481&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="main_wrapper">
+        <!-- header 3 -->
+        <header class="offer_section offer3">
+            <div class="title_block">
+                <h1 class="main_title">Розетка-таймер тижнева 16А / 3680W</h1>
+                <p class="subtitle">АВТОМАТИЗАЦІЯ БЕЗ ЗУСИЛЬ</p>
+            </div>
+            <div class="image_block">
+                <img alt="Розетка-таймер тижнева 16А / 3680W" class="offer_image" src="images/photo-main.webp">
+            </div>
+            <div class="benefits_list clearfix">
+                <div class="benefit_item">До 10 програм</div>
+                <div class="benefit_item">16 А / 3680 Вт</div>
+                <div class="benefit_item">Резервне живлення до 100 год</div>
+            </div>
+            <div class="price_block clearfix">
+                <div class="price_item old">
+                    <div class="text">Звичайна ціна:</div>
+                    <div class="value">799грн</div>
+                </div>
+                <div class="price_item new">
+                    <div class="text">Ціна зі знижкою:</div>
+                    <div class="value">518грн</div>
+                </div>
+            </div>
+            <div class="timer">
+                <p>Пропозиція діє:</p>
+                <div class="timer_container">
+                    <div class="timer_block">
+                        <div class="count hours"><span>1</span><span>1</span></div>
+                        <div class="text">годин</div>
+                    </div>
+                    <div class="timer_block">
+                        <div class="count minutes"><span>4</span><span>4</span></div>
+                        <div class="text">хвилин</div>
+                    </div>
+                    <div class="timer_block">
+                        <div class="count seconds"><span>1</span><span>8</span></div>
+                        <div class="text">секунд</div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <a class="btn" href="#last-order">Оформити замовлення</a>
+                <div class="info">
+                    Залишилось по акції <span class="circle">12</span> шт.
+                </div>
+            </div>
+        </header>
+
+        <section class="benefits_section">
+            <h2 class="title">Опис</h2>
+            <div class="benefits_list2">
+                <div class="benefit_item">
+                    <img alt="Економія електроенергії" class="img" src="images/photo-1.webp">
+                    <div class="text_block">
+                        <h4>Економія електроенергії</h4>
+                        <p>Прилади працюють лише за розкладом. Жодних зайвих витрат.</p>
+                    </div>
+                </div>
+                <div class="benefit_item">
+                    <img alt="Просте управління" class="img" src="images/photo-2.webp">
+                    <div class="text_block">
+                        <h4>Просте управління</h4>
+                        <p>Великий екран та зрозумілі кнопки. Налаштування займає хвилини.</p>
+                    </div>
+                </div>
+                <div class="benefit_item">
+                    <img alt="Великий дисплей" class="img" src="images/photo-3.webp">
+                    <div class="text_block">
+                        <h4>Великий дисплей</h4>
+                        <p>Уся інформація видно здалеку. Зручно перевіряти час та режими.</p>
+                    </div>
+                </div>
+                <div class="benefit_item">
+                    <img alt="Гнучка настройка" class="img" src="images/photo-4.webp">
+                    <div class="text_block">
+                        <h4>Гнучка настройка</h4>
+                        <p>Окремі програми для кожного дня тижня або повторюваний графік.</p>
+                    </div>
+                </div>
+                <div class="benefit_item">
+                    <img alt="Захист від перевантаження" class="img" src="images/photo-5.webp">
+                    <div class="text_block">
+                        <h4>Захист від перевантаження</h4>
+                        <p>Вбудований захист автоматично вимикає живлення при перевищенні навантаження, щоб уберегти прилади та проводку.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <a class="btn" href="#last-order">Оформити замовлення</a>
+                <div class="info">
+                    Залишилось по акції <span class="circle">12</span> шт.
+                </div>
+            </div>
+        </section>
+
+        <section class="video_section">
+            <h2 class="title">Відео-огляд</h2>
+            <div class="gi-iframe-placeholder" data-gi-original-iframe="https://www.youtube.com/embed/SvarM_x78gg" style="width: 480px; height: 315px; background: url('https://img.youtube.com/vi/SvarM_x78gg/hqdefault.jpg') center center / cover; border: 2px dashed rgb(204, 204, 204); display: flex; align-items: center; justify-content: center; flex-direction: column; font-family: system-ui, sans-serif; color: rgb(102, 102, 102); text-align: center; padding: 20px; box-sizing: border-box;">
+                <div style="background: rgba(0,0,0,0.7); padding: 10px 20px; border-radius: 8px;">
+                    <a href="https://www.youtube.com/watch?v=SvarM_x78gg" target="_blank" style="color: white; text-decoration: none;">Дивитись на YouTube</a>
+                </div>
+            </div>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvarM_x78gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+        <section class="description_section">
+            <section class="offer_section">
+                <h2 class="title">Характеристики</h2>
+                <img alt="Розетка-таймер тижнева 16А / 3680W" src="images/photo-1.webp" style="display: block; margin: 0 auto 20px; max-width: 90%; border-radius: 5px;">
+                <ul>
+                    <li><b>Тип таймера:</b> електронний, тижневий</li>
+                    <li><b>Живлення:</b> 230 В, 50 Гц</li>
+                    <li><b>Резервне живлення:</b> акумулятор NiMH 1.2 В, до 100 годин</li>
+                    <li><b>Максимальне навантаження:</b> 16 А / 3680 Вт</li>
+                    <li><b>Кількість програм:</b> до 10 включень/виключень на добу</li>
+                    <li><b>Мінімальний крок програмування:</b> 1 хвилина</li>
+                    <li><b>Цикл програмування:</b> 7 днів</li>
+                    <li><b>Точність ходу:</b> ±1 хв/місяць</li>
+                    <li><b>Режими роботи:</b> AUTO / ON / OFF / RANDOM</li>
+                    <li><b>Тип розетки:</b> EU (євростандарт), із заземленням</li>
+                    <li><b>Корпус:</b> білий пластик</li>
+                    <li><b>Робоча температура:</b> −10 … +40 °C</li>
+                    <li><b>Розміри:</b> 135 × 59 × 77 мм</li>
+                </ul>
+                <div class="container">
+                    <a class="btn" href="#last-order">Оформити замовлення</a>
+                    <div class="info">
+                        Залишилось по акції <span class="circle">12</span> шт.
+                    </div>
+                </div>
+            </section>
+
+            <section class="reviews4_section">
+                <h2 class="title">Відгуки покупців</h2>
+                <div class="reviews_stats_block">
+                    <p><b>98%</b> покупців рекомендують цей товар</p>
+                    <div class="line"></div>
+                </div>
+                <div class="reviews_list4 owl-carousel owl-loaded">
+                    <div class="owl-stage-outer owl-height" style="height: 822.948px;">
+                        <div class="owl-stage" style="transform: translate3d(-880px, 0px, 0px); transition: 0.3s; width: 3080px;">
+                            <div class="owl-item cloned" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-1.webp">
+                                        <div class="author_info">Віктор Яновський</div>
+                                        <p>Купив для поливу на дачі — тепер насос вмикається сам о 6-й ранку і вимикається через годину. Налаштував за п'ять хвилин, все інтуїтивно зрозуміло.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-2.webp">
+                                        <div class="author_info">Андрій Ковальчук</div>
+                                        <p>Брав для акваріума — освітлення тепер вмикається і вимикається за розкладом, без мого втручання. Резервний акумулятор тримає налаштування навіть коли світло вимикають.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-3.webp">
+                                        <div class="author_info">Марія Вільна</div>
+                                        <p>Використовуємо для обігрівача в дитячій — він вмикається за годину до приходу дітей зі школи і вимикається вночі. Економить електрику і нерви.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-1.webp">
+                                        <div class="author_info">Віктор Яновський</div>
+                                        <p>Купив для поливу на дачі — тепер насос вмикається сам о 6-й ранку і вимикається через годину. Налаштував за п'ять хвилин, все інтуїтивно зрозуміло.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-2.webp">
+                                        <div class="author_info">Андрій Ковальчук</div>
+                                        <p>Брав для акваріума — освітлення тепер вмикається і вимикається за розкладом, без мого втручання. Резервний акумулятор тримає налаштування навіть коли світло вимикають.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-3.webp">
+                                        <div class="author_info">Марія Вільна</div>
+                                        <p>Використовуємо для обігрівача в дитячій — він вмикається за годину до приходу дітей зі школи і вимикається вночі. Економить електрику і нерви.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 440px;">
+                                <div class="review_item">
+                                    <div class="text_block">
+                                        <img alt="Фото розетки-таймера від покупця" src="images/photo-1.webp">
+                                        <div class="author_info">Віктор Яновський</div>
+                                        <p>Купив для поливу на дачі — тепер насос вмикається сам о 6-й ранку і вимикається через годину. Налаштував за п'ять хвилин, все інтуїтивно зрозуміло.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-nav">
+                        <button type="button" role="presentation" class="owl-prev"></button>
+                        <button type="button" role="presentation" class="owl-next"></button>
+                    </div>
+                    <div class="owl-dots">
+                        <button role="button" class="owl-dot active"><span></span></button>
+                        <button role="button" class="owl-dot"><span></span></button>
+                        <button role="button" class="owl-dot"><span></span></button>
+                    </div>
+                </div>
+            </section>
+
+            <section class="order_steps_section">
+                <h2 class="title">Як замовити?</h2>
+                <div class="order_steps_list1 clearfix">
+                    <div class="step_item">
+                        <h4>Заявка</h4>
+                        <p>Залишаєте заявку на нашому сайті</p>
+                    </div>
+                    <div class="step_item">
+                        <h4>Дзвінок</h4>
+                        <p>Менеджер уточнює деталі замовлення</p>
+                    </div>
+                    <div class="step_item">
+                        <h4>Відправка</h4>
+                        <p>Новою Поштою та Укр-Поштою протягом 1-3 днів</p>
+                    </div>
+                    <div class="step_item">
+                        <h4>Отримання</h4>
+                        <p>Оплачуєте при отриманні поштою</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="offer_section offer3">
+                <div class="title_block">
+                    <h3 class="main_title">Розетка-таймер тижнева 16А / 3680W</h3>
+                    <p class="subtitle">АВТОМАТИЗАЦІЯ БЕЗ ЗУСИЛЬ</p>
+                </div>
+                <div class="image_block">
+                    <img alt="Розетка-таймер тижнева 16А / 3680W" class="offer_image" src="images/photo-main.webp">
+                </div>
+                <div class="benefits_list clearfix">
+                    <div class="benefit_item">До 10 програм</div>
+                    <div class="benefit_item">16 А / 3680 Вт</div>
+                    <div class="benefit_item">Резервне живлення до 100 год</div>
+                </div>
+                <div class="price_block clearfix">
+                    <div class="price_item old">
+                        <div class="text">Звичайна ціна:</div>
+                        <div class="value">799грн</div>
+                    </div>
+                    <div class="price_item new">
+                        <div class="text">Ціна зі знижкою:</div>
+                        <div class="value">518грн</div>
+                    </div>
+                </div>
+                <div class="timer">
+                    <p>Пропозиція діє:</p>
+                    <div class="timer_container">
+                        <div class="timer_block">
+                            <div class="count hours"><span>1</span><span>1</span></div>
+                            <div class="text">годин</div>
+                        </div>
+                        <div class="timer_block">
+                            <div class="count minutes"><span>4</span><span>4</span></div>
+                            <div class="text">хвилин</div>
+                        </div>
+                        <div class="timer_block">
+                            <div class="count seconds"><span>1</span><span>8</span></div>
+                            <div class="text">секунд</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="order_submit">
+                    <form action="order.php" class="order_form" id="order_form" method="POST" name="order-form">
+                        <input class="field" name="name" placeholder="Ваше ім'я" required="" type="text">
+                        <input class="field" name="phone" placeholder="Ваш телефон" required="required" type="tel" inputmode="text">
+                        <div style="margin: 0 auto 15px; font-size: 15px; width: 380px; color: #000;">
+                            <input checked="checked" class="custom-checkbox" id="data1" required="" type="checkbox">
+                            <label for="data1">Я погоджуюся з політикою конфіденційності</label>
+                        </div>
+                        <img alt="" class="img-loading" src="images/photo-main.webp">
+                        <div id="last-order">
+                            <button class="btn">Оформити замовлення</button>
+                            <div class="info">
+                                Залишилось по акції <span class="circle">12</span> шт.
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </section>
+
+            <footer class="footer_section">
+                <div style="font-size:13px; text-align: center;">
+                    <a href="politics.html" style="color:inherit;">Політика конфеденційності</a>
+                </div>
+            </footer>
+
+            <div class="yvedw">
+                <div class="yved yvedf1" style="display: none;">Козаєв Юрій, м.Дніпро, оформив замовлення, залишилось 10 шт.</div>
+                <div class="yved yvedf2" style="display: none;">Батаєва Олена, м.Одеса, залишила заявку на зворотній дзвінок</div>
+                <div class="yved yvedf1" style="display: none;">Віктор Єфимов, м.Київ, оформив замовлення, залишилось 9 шт.</div>
+                <div class="yved yvedf2" style="display: none;">Наталія Лисець, м.Львів, залишила заявку на зворотній дзвінок</div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Бібліотеки -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.inputmask.min.js"></script>
+    <!-- Власні скрипти -->
+    <script src="js/script.js"></script>
+</body>
+</html>
